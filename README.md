@@ -61,6 +61,8 @@ System requirements
 Basic Usage
 ------------
 
+Hivemall is easy to use as every machine learning step (i.e., machine learning workflow) can be done within Hive.
+
 ```sql
 SELECT 
   feature, 
